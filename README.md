@@ -3,7 +3,8 @@
 Run an AdaptOrch task from a GitHub Actions workflow and inspect execution and
 verification separately. This repository contains a remote-only Action and a
 public API client. The AdaptOrch engine and its algorithms run on the hosted
-service and are not included.
+service and are not included. Runs can produce AI-generated content; review the
+output and supporting evidence before relying on it.
 
 The Action has been tested against a local mock API, including on GitHub-hosted
 runners. Compatibility with your hosted deployment and credentials must be
@@ -89,6 +90,15 @@ prompts or context files, and review any report before sharing it. Use only a
 trusted `api-url`: it receives the AdaptOrch credential and, on submission, the
 provider credential. Provider credentials are not sent during status or evidence
 reads. Avoid running secret-bearing workflows against untrusted pull request code.
+
+## Support and privacy
+
+Report Action bugs and unexpected output through the
+[issue tracker](https://github.com/dmae97/adaptorch-action/issues), without
+including credentials or sensitive task data. For service and security support,
+see [AdaptOrch support](https://adaptorch.com/support). See the service's
+[privacy notice](https://adaptorch.com/privacy) for its current data practices
+and review status.
 
 ## Distribution boundary
 
