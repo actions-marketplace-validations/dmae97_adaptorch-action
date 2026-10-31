@@ -1,0 +1,21 @@
+Copyright (c) 2026 ClassicMate. All rights reserved.
+
+Limited permission is granted to any person or organization to download, copy,
+and run the files in this repository, without modification, to the extent
+necessary to use the AdaptOrch GitHub Action and its included client to access
+the hosted AdaptOrch service from a GitHub Actions workflow. This permission
+includes incidental copies made by GitHub and workflow runners. You may copy the
+configuration examples in the documentation into your own workflows for that
+purpose.
+
+This permission does not grant the right to redistribute or modify the software,
+or any right to the source code, models, algorithms, or other components of the
+hosted AdaptOrch service. All rights not expressly granted are reserved.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
